@@ -40,7 +40,7 @@ const Disconnected: FC = () => {
           noOfLines={2}
           textAlign="center"
         >
-          Mint your buildoor. Earn $BLD. Level up.
+          Mint your larvalife. Earn $LRV. Level up.
         </Heading>
         <Button
           bgColor="accent"
@@ -49,7 +49,7 @@ const Disconnected: FC = () => {
           onClick={handleClick}
         >
           <HStack>
-            <Text>become a buildoor</Text>
+            <Text>become a larvalife</Text>
             <ArrowForwardIcon />
           </HStack>
         </Button>
